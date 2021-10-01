@@ -1,0 +1,11 @@
+.container > ul li {
+  font-size: 40px;
+}
+.container > ul li .name {
+  color: powderblue;
+}
+.container > ul li .age {
+  color: tomato;
+}
+
+/*# sourceMappingURL=/main.39afc03c.css.map */

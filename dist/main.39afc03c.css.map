@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAII;EACE;;AACA;EACE;;AAEF;EACE","file":"main.39afc03c.css","sourceRoot":"..","sourcesContent":["$color: tomato;\n\n.container {\n  > ul {\n    li {\n      font-size: 40px;\n      .name {\n        color: powderblue;\n      }\n      .age {\n        color: tomato;\n      }\n    }\n  }\n}\n"]}
